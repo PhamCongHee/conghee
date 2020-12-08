@@ -1,0 +1,63 @@
+Ngô Huyền, 22
+ 
+Quách Quân, 18
+ 
+Phạm Hoàng, 22
+ 
+Phùng Tĩnh, 19
+ 
+Phạm Anh, 20
+ 
+Phan Hân, 19
+ 
+Nguyễn Anh, 18
+ 
+Cao Oanh, 19
+ 
+Phùng Oanh, 18
+ 
+Nguyễn Quân, 18
+ 
+Hà Diễm, 18
+ 
+Cao Hải, 19
+ 
+Trần Anh, 22
+ 
+Ngô Huyền, 20
+ 
+Ngô Hải, 21
+ 
+Tạ Quang, 18
+ 
+Tạ Linh, 18
+ 
+Lê Quang, 19
+ 
+Phạm Khuê, 19
+ 
+Quách Khuê, 21
+ 
+Tạ Khoa, 19
+ 
+Trần Khoa, 18
+ 
+Ngô Hải, 21
+ 
+Tạ Tuấn, 18
+ 
+Bùi Hân, 22
+ 
+Vũ Tuấn, 22
+ 
+Vũ Oanh, 20
+ 
+Phùng Hân, 21
+ 
+Trần Linh, 18
+ 
+Nguyễn Huyền, 20
+ 
+HELLO WORLD
+199.6789
+false

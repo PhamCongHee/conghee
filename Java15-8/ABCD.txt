@@ -1,0 +1,75 @@
+Phùng Khoa, 18
+ 
+Quách Huyền, 20
+ 
+Phạm Oanh, 18
+ 
+Tạ Anh, 21
+ 
+Nguyễn Hải, 18
+ 
+Phạm Ngọc, 18
+ 
+Nguyễn Khôi, 21
+ 
+Hà Tĩnh, 21
+ 
+Phan Khoa, 21
+ 
+Cao Anh, 22
+ 
+Vũ Hân, 21
+ 
+Lương Linh, 20
+ 
+Nguyễn Cường, 19
+ 
+Phan Tuấn, 19
+ 
+Phạm Khôi, 21
+ 
+Nguyễn Hải, 19
+ 
+Tạ Khôi, 19
+ 
+Lương Hân, 21
+ 
+Ngô Thắng, 18
+ 
+Ngô Khuê, 19
+ 
+Tạ Huyền, 21
+ 
+Tạ Oanh, 19
+ 
+Quách Thắng, 19
+ 
+Phan Hải, 21
+ 
+Lê Khoa, 18
+ 
+Ngô Khoa, 21
+ 
+Ngô Thắng, 19
+ 
+Quách Diễm, 22
+ 
+Lê Anh, 21
+ 
+Nguyễn Khôi, 19
+ 
+Ngô Hải, 20
+ 
+Ngô Huyền, 21
+ 
+Hà Cường, 20
+ 
+Quách Ngọc, 19
+ 
+Lương Diễm, 20
+ 
+Phạm Quang, 19
+ 
+HELLO WORLD
+199.6789
+false
